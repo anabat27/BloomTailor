@@ -10,7 +10,7 @@ This project was developed by:
 
 - **RÂPA Denis-Andrei** - [GitHub Profile](https://github.com/adenis033)
 - **BATAGOI Ana-Maria** - [GitHub Profile](https://github.com/anabat27)
-- **NICA Alexia** - [GitHub Profile]([https://github.com/](https://github.com/alexianicaa))
+- **NICA Alexia** - [GitHub Profile](https://github.com/alexianicaa)
 
 Link to the project:
 
